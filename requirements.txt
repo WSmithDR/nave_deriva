@@ -1,0 +1,12 @@
+arandr==0.1.11
+argcomplete==3.6.2
+attrs==25.3.0
+cffi==1.17.1
+cryptography==45.0.5
+filelock==3.18.0
+packaging==25.0
+pwquality==1.4.5
+pycairo==1.28.0
+pycparser==2.22
+PyGObject==3.52.3
+wheel==0.45.1
